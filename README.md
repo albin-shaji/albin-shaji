@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Albin Shaji</h1>
+<p align="center">💻 Aspiring Full-Stack Developer | 🛡️ Cybersecurity Enthusiast | 📍 India</p>
 
-<!--
-**albin-shaji/albin-shaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 BCA Graduate from BVM Holy Cross College, Cherpunkal, Kottayam  
+- 🧑‍💻 Ex-Associate Analyst at Deloitte India  
+- 🛠️ Passionate about building web applications and secure backend systems  
+- 🎯 Currently preparing for MCA & sharpening my skills in cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔐 [SwiftShare](https://github.com/albin-shaji/swiftshare) | Secure file-sharing web app with 6-digit access code | PHP, MySQL, Tailwind CSS |
+| 💬 [ChatApp](https://github.com/albin-shaji/chatapp) | Real-time messaging system | PHP, MySQL, JS |
+| 🔗 [URL Shortener](https://github.com/albin-shaji/url-shortener) | Custom URL shortener like Bit.ly | PHP, MySQL, Tailwind |
+| 📦 [Password Manager](https://github.com/albin-shaji/password-manager) | Encrypted local password storage | PHP, MySQL |
+| 🏘️ [Real Estate System](https://github.com/albin-shaji/real-estate-management-system) | Property listings & management app | Django, SQLite |
+| 🎓 [Placement Portal](https://github.com/albin-shaji/placement-management-system) | Manage student placements for colleges | PHP, MySQL |
+
+---
+
+### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/albin-shaji)
+📧 albinshaji05@gmail.com  
+📱 +91 9526449307
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albin-shaji&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=albin-shaji&theme=tokyonight" width="450"/>
+</p>
