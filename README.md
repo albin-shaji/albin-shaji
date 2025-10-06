@@ -37,7 +37,7 @@
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/albin-shaji)
-📧 albinshaji05@gmail.com  
+📧 albinshaji39k@gmail.com  
 📱 +91 9526449307
 
 ---
