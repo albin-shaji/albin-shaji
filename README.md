@@ -1,13 +1,13 @@
 <h1 align="center">Albin Shaji</h1>
 
 <p align="center">
-  Full-Stack Web Developer · Security-Focused Backend Engineer<br/>
-  India 🇮🇳
+  Full-Stack Developer · Backend & Security-Oriented Engineer<br/>
+  Palakkad, Kerala, India 🇮🇳
 </p>
 
 <p align="center">
   <a href="https://www.albinshaji.com"><strong>Portfolio</strong></a> ·
-  <a href="https://www.linkedin.com/in/albin-shaji"><strong>LinkedIn</strong></a> ·
+  <a href="https://www.linkedin.com/in/albin-shaji-530192340"><strong>LinkedIn</strong></a> ·
   <a href="mailto:albinshaji39k@gmail.com"><strong>Email</strong></a>
 </p>
 
@@ -15,110 +15,140 @@
 
 ## Profile Summary
 
-I am a **security-oriented full-stack developer** with hands-on experience designing, hardening, and monitoring production-grade web applications.
+MCA student with **hands-on experience in full-stack development, backend architecture, and secure system design**.  
+Strong background in **PHP, Python, Java**, and database-driven applications, with practical exposure to **cloud APIs, authentication systems, monitoring, and network security concepts**.
 
-My work emphasizes:
-- **Secure authentication & session management**
-- **Backend access control & audit logging**
-- **Real-time admin alerts & monitoring**
-- **Clean system architecture over surface-level UI**
-
-Previously worked at **Deloitte India** as an Associate Analyst and currently preparing for **MCA**, with a long-term focus on **cybersecurity and backend systems engineering**.
+Previously worked in **enterprise and startup environments**, contributing to **data pipelines, RESTful systems, and production-grade web applications**. Passionate about building **scalable, secure, and maintainable software systems** that solve real-world problems. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## Education & Experience
+## Education
 
-**Education**
-- 🎓 **Bachelor of Computer Applications (BCA)**  
-  BVM Holy Cross College, Cherpunkal, Kottayam
+**Master of Computer Applications (MCA)**  
+LEAD College of Management, Palakkad  
+*2025 – 2027* :contentReference[oaicite:2]{index=2}
 
-**Professional Experience**
-- 🏢 **Associate Analyst — Deloitte India**  
-  Exposure to enterprise workflows, compliance-driven systems, and structured development practices
-
----
-
-## Core Technical Competencies
-
-### Backend & Security
-- Secure login systems (hashing, validation, session expiry)
-- Admin-only access control layers
-- Activity logging & audit trails
-- Rate-limited alerts (Email + Telegram)
-- Hardened Apache & PHP configurations
-- CSRF protection & request validation
-
-### Full-Stack Development
-- PHP-based application architecture
-- Django-based systems for structured workflows
-- Database-driven applications (MySQL, SQLite)
-- Responsive UI using Tailwind CSS
-- Clean separation of logic, configuration, and presentation
+**Bachelor of Computer Applications (BCA)**  
+BVM Holy Cross College, Kottayam  
+*2021 – 2024* :contentReference[oaicite:3]{index=3}
 
 ---
 
-## Technology Stack
+## Professional Experience
 
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### Data Analyst Intern — Deloitte Consulting  
+*Dec 2024 – Mar 2025*
 
-**Databases & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+- Enhanced ETL workflows using **Oracle Data Integrator (ODI)**
+- Reduced SQL execution time by **30%**
+- Improved reporting accuracy by **25%**
+- Worked in compliance-driven, enterprise-scale data environments :contentReference[oaicite:4]{index=4}
 
 ---
 
-## Selected Projects
+### Python Developer — Singularis Softwares  
+*Jan 2024 – Jun 2024*
 
-| Project | What It Solves | Stack |
-|-------|--------------|------|
-| 🔐 **SwiftShare** | Secure file sharing with access-code based protection | PHP · MySQL · Tailwind |
-| 💬 **ChatApp** | Real-time messaging with session-aware users | PHP · MySQL · JS |
-| 🔗 **URL Shortener** | Custom short-link service with database tracking | PHP · MySQL |
-| 📦 **Password Manager** | Encrypted password storage system | PHP · MySQL |
-| 🏘️ **Real Estate System** | Property listing & management workflow | Django · SQLite |
-| 🎓 **Placement Portal** | Student placement management for colleges | PHP · MySQL |
+- Built a **Django-based client management system**
+- Implemented **REST APIs with secure authentication**
+- Improved user engagement by **20%**
+- Designed structured backend logic with clean separation of concerns :contentReference[oaicite:5]{index=5}
 
 ---
 
-## Security & System Design Focus
+## Technical Skills
 
-- Backend security hardening (.htaccess, headers, file restrictions)
-- Admin activity detection & alerting
-- Visitor & access telemetry
-- Secure deployment practices on shared hosting
-- Monitoring-first development mindset
+### Programming Languages
+- Python · Java · PHP · C · C++
+
+### Web & Backend Technologies
+- HTML · CSS · JavaScript · Bootstrap
+- Django · Flask
+- REST API Development
+- Authentication & Session Management
+
+### Databases
+- MySQL · SQLite · PostgreSQL
+
+### Tools & Infrastructure
+- Git · XAMPP · Apache
+- Google APIs · PHPMailer
+- Wireshark (network traffic analysis)
+
+:contentReference[oaicite:6]{index=6}
 
 ---
 
-## Live Portfolio
+## Key Projects
 
-🌐 **https://www.albinshaji.com**
+### Netvora — Network Identity Dashboard  
+**HTML · CSS · JavaScript**
 
-The portfolio demonstrates:
-- Secure admin dashboards
-- Centralized logging & alerts
-- Production-style PHP architecture
-- Clean UI with security-first backend logic
+- Privacy-focused dashboard displaying **public network data, browser signals, and device identity**
+- Real-time data fetching using IP & system analytics APIs
+- Modular JavaScript architecture with responsive UI :contentReference[oaicite:7]{index=7}
 
 ---
 
-## GitHub Analytics
+### Lexora AI — AI Language Translator  
+**Python · Flask · Google Cloud**
+
+- Multilingual translation system with:
+  - Speech recognition
+  - NLP-based contextual accuracy
+  - Text-to-speech output
+- Integrated cloud APIs for scalable language processing :contentReference[oaicite:8]{index=8}
+
+---
+
+### Real Estate Management System  
+**Python · Django**
+
+- Full-stack application for property & client management
+- CRUD APIs with role-based access control
+- Structured backend design with database integrity :contentReference[oaicite:9]{index=9}
+
+---
+
+### Portfolio Hosting & Mail Alert System  
+**PHP · MySQL · Apache**
+
+- Developed and hosted personal portfolio on custom domain
+- Implemented **SMTP-secured email alerts** using PHPMailer
+- Focused on backend security, logging, and controlled access :contentReference[oaicite:10]{index=10}
+
+---
+
+### Secure Web Server & Network Configuration  
+**XAMPP · Wireshark**
+
+- Configured local web server with SSL & firewall rules
+- Analyzed network traffic to understand attack surfaces
+- Strengthened foundational security and networking skills :contentReference[oaicite:11]{index=11}
+
+---
+
+## Certifications
+
+- Advanced Python
+- IBM Python for Data Science
+- AWS Cloud Foundations
+- Data Analysis in Excel
+- Network Security :contentReference[oaicite:12]{index=12}
+
+---
+
+## Soft Skills & Activities
+
+- Team Collaboration
+- Problem Solving
+- Communication & Adaptability
+- Conducted web development workshops
+- Mentored juniors in debugging and backend concepts :contentReference[oaicite:13]{index=13}
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albin-shaji&show_icons=true&theme=tokyonight" height="180"/>
@@ -130,11 +160,12 @@ The portfolio demonstrates:
 ## Contact
 
 - 📧 Email: **albinshaji39k@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/albin-shaji**
-- 🌐 Portfolio: **albinshaji.com**
+- 📱 Phone: **+91 9526449307**
+- 💼 LinkedIn: **linkedin.com/in/albin-shaji-530192340**
+- 🌐 Portfolio: **https://www.albinshaji.com**
 
 ---
 
 <p align="center">
-  <em>Engineering secure systems with discipline, clarity, and intent.</em>
+  <em>Focused on building secure, scalable systems with real-world impact.</em>
 </p>
