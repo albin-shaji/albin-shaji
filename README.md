@@ -1,36 +1,32 @@
-<h1 align="center">Albin Shaji</h1>
+# Albin Shaji
 
-<p align="center">
-  Full-Stack Developer · Backend & Security-Oriented Engineer<br/>
-  Palakkad, Kerala, India 🇮🇳
-</p>
+**Full-Stack Developer · Backend & Security-Oriented Engineer**  
+📍 Palakkad, Kerala, India 🇮🇳
 
-<p align="center">
-  <a href="https://www.albinshaji.com"><strong>Portfolio</strong></a> ·
-  <a href="https://www.linkedin.com/in/albin-shaji-530192340"><strong>LinkedIn</strong></a> ·
-  <a href="mailto:albinshaji39k@gmail.com"><strong>Email</strong></a>
-</p>
+[Portfolio](https://www.albinshaji.com) ·
+[LinkedIn](https://www.linkedin.com/in/albin-shaji-530192340) ·
+[Email](mailto:albinshaji39k@gmail.com)
 
 ---
 
 ## Profile Summary
 
-MCA student with **hands-on experience in full-stack development, backend architecture, and secure system design**.  
+MCA student with hands-on experience in full-stack development, backend architecture, and secure system design.  
 Strong background in **PHP, Python, Java**, and database-driven applications, with practical exposure to **cloud APIs, authentication systems, monitoring, and network security concepts**.
 
-Previously worked in **enterprise and startup environments**, contributing to **data pipelines, RESTful systems, and production-grade web applications**. Passionate about building **scalable, secure, and maintainable software systems** that solve real-world problems. :contentReference[oaicite:1]{index=1}
+Previously worked in both **enterprise and startup environments**, contributing to **data pipelines, RESTful systems, and production-grade web applications**. Passionate about building **scalable, secure, and maintainable software systems** that solve real-world problems.
 
 ---
 
 ## Education
 
-**Master of Computer Applications (MCA)**  
-LEAD College of Management, Palakkad  
-*2025 – 2027* :contentReference[oaicite:2]{index=2}
+### Master of Computer Applications (MCA)
+**LEAD College of Management, Palakkad**  
+*2025 – 2027*
 
-**Bachelor of Computer Applications (BCA)**  
-BVM Holy Cross College, Kottayam  
-*2021 – 2024* :contentReference[oaicite:3]{index=3}
+### Bachelor of Computer Applications (BCA)
+**BVM Holy Cross College, Kottayam**  
+*2021 – 2024*
 
 ---
 
@@ -42,7 +38,7 @@ BVM Holy Cross College, Kottayam
 - Enhanced ETL workflows using **Oracle Data Integrator (ODI)**
 - Reduced SQL execution time by **30%**
 - Improved reporting accuracy by **25%**
-- Worked in compliance-driven, enterprise-scale data environments :contentReference[oaicite:4]{index=4}
+- Worked in compliance-driven, enterprise-scale data environments
 
 ---
 
@@ -52,89 +48,87 @@ BVM Holy Cross College, Kottayam
 - Built a **Django-based client management system**
 - Implemented **REST APIs with secure authentication**
 - Improved user engagement by **20%**
-- Designed structured backend logic with clean separation of concerns :contentReference[oaicite:5]{index=5}
+- Designed structured backend logic with clean separation of concerns
 
 ---
 
 ## Technical Skills
 
 ### Programming Languages
-- Python · Java · PHP · C · C++
+- Python, Java, PHP, C, C++
 
 ### Web & Backend Technologies
-- HTML · CSS · JavaScript · Bootstrap
-- Django · Flask
-- REST API Development
-- Authentication & Session Management
+- HTML, CSS, JavaScript, Bootstrap  
+- Django, Flask  
+- REST API Development  
+- Authentication & Session Management  
 
 ### Databases
-- MySQL · SQLite · PostgreSQL
+- MySQL, SQLite, PostgreSQL
 
 ### Tools & Infrastructure
-- Git · XAMPP · Apache
-- Google APIs · PHPMailer
+- Git, XAMPP, Apache  
+- Google APIs, PHPMailer  
 - Wireshark (network traffic analysis)
-
-:contentReference[oaicite:6]{index=6}
 
 ---
 
 ## Key Projects
 
 ### Netvora — Network Identity Dashboard  
-**HTML · CSS · JavaScript**
+*HTML · CSS · JavaScript*
 
 - Privacy-focused dashboard displaying **public network data, browser signals, and device identity**
-- Real-time data fetching using IP & system analytics APIs
-- Modular JavaScript architecture with responsive UI :contentReference[oaicite:7]{index=7}
+- Real-time data fetching using **IP & system analytics APIs**
+- Modular JavaScript architecture with a responsive UI
 
 ---
 
 ### Lexora AI — AI Language Translator  
-**Python · Flask · Google Cloud**
+*Python · Flask · Google Cloud*
 
-- Multilingual translation system with:
+- Multilingual translation system featuring:
   - Speech recognition
   - NLP-based contextual accuracy
   - Text-to-speech output
-- Integrated cloud APIs for scalable language processing :contentReference[oaicite:8]{index=8}
+- Integrated cloud APIs for scalable language processing
 
 ---
 
 ### Real Estate Management System  
-**Python · Django**
+*Python · Django*
 
 - Full-stack application for property & client management
-- CRUD APIs with role-based access control
-- Structured backend design with database integrity :contentReference[oaicite:9]{index=9}
+- CRUD APIs with **role-based access control**
+- Structured backend design with strong database integrity
 
 ---
 
 ### Portfolio Hosting & Mail Alert System  
-**PHP · MySQL · Apache**
+*PHP · MySQL · Apache*
 
-- Developed and hosted personal portfolio on custom domain
+- Developed and hosted a personal portfolio on a custom domain
 - Implemented **SMTP-secured email alerts** using PHPMailer
-- Focused on backend security, logging, and controlled access :contentReference[oaicite:10]{index=10}
+- Focused on backend security, logging, and controlled access
 
 ---
 
 ### Secure Web Server & Network Configuration  
-**XAMPP · Wireshark**
+*XAMPP · Wireshark*
 
-- Configured local web server with SSL & firewall rules
+- Configured local web server with **SSL & firewall rules**
 - Analyzed network traffic to understand attack surfaces
-- Strengthened foundational security and networking skills :contentReference[oaicite:11]{index=11}
+- Strengthened foundational security and networking skills
 
 ---
 
 ## Certifications
 
-- Advanced Python
-- IBM Python for Data Science
-- AWS Cloud Foundations
-- Data Analysis in Excel
-- Network Security :contentReference[oaicite:12]{index=12}
+- Advanced Python  
+- IBM Python for Data Science  
+- AWS Cloud Foundations  
+- Data Analysis in Excel  
+- Network Security  
 
 ---
 
@@ -144,28 +138,24 @@ BVM Holy Cross College, Kottayam
 - Problem Solving
 - Communication & Adaptability
 - Conducted web development workshops
-- Mentored juniors in debugging and backend concepts :contentReference[oaicite:13]{index=13}
+- Mentored juniors in debugging and backend concepts
 
 ---
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albin-shaji&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=albin-shaji&theme=tokyonight" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albin-shaji&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=albin-shaji&theme=tokyonight)
 
 ---
 
 ## Contact
 
-- 📧 Email: **albinshaji39k@gmail.com**
-- 📱 Phone: **+91 9526449307**
-- 💼 LinkedIn: **linkedin.com/in/albin-shaji-530192340**
-- 🌐 Portfolio: **https://www.albinshaji.com**
+- 📧 **Email:** albinshaji39k@gmail.com  
+- 📱 **Phone:** +91 9526449307  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/albin-shaji-530192340  
+- 🌐 **Portfolio:** https://www.albinshaji.com  
 
 ---
 
-<p align="center">
-  <em>Focused on building secure, scalable systems with real-world impact.</em>
-</p>
+*Focused on building secure, scalable systems with real-world impact.*
